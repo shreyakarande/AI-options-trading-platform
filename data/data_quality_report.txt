@@ -1,0 +1,16 @@
+DATA QUALITY REPORT
+
+Total rows: 0
+Columns: ['date', 'open', 'high', 'low', 'close', 'volume', 'india_vix']
+Duplicate rows: 0
+Invalid price rows: 0
+Missing required columns: []
+
+Missing values:
+date         0
+open         0
+high         0
+low          0
+close        0
+volume       0
+india_vix    0
